@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"decoder:" : "SvenVanCaekenberghe 6/13/2012 11:14",
+		"encoder:" : "SvenVanCaekenberghe 6/13/2012 11:14",
+		"identifier" : "SvenVanCaekenberghe 3/23/2014 19:24",
+		"listOfElementSchema:" : "SvenVanCaekenberghe 6/13/2012 11:38",
+		"listOfType:" : "SvenVanCaekenberghe 6/13/2012 11:25",
+		"listOfType:andElementSchema:" : "SvenVanCaekenberghe 6/13/2012 11:39",
+		"mapWithValueSchema:" : "SvenVanCaekenberghe 8/30/2013 11:04",
+		"printOn:" : "SvenVanCaekenberghe 7/4/2013 18:35",
+		"readFrom:" : "SvenVanCaekenberghe 3/24/2014 10:34",
+		"reader:" : "sebastianheidbrink 08/15/2014 16:06",
+		"schemaName:" : "SvenVanCaekenberghe 6/8/2012 21:09",
+		"writeObject:on:" : "SvenVanCaekenberghe 3/23/2014 22:10",
+		"writer:" : "sebastianheidbrink 08/15/2014 16:07" } }

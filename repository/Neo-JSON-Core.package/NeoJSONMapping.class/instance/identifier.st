@@ -1,0 +1,3 @@
+other
+identifier
+	self subclassResponsibility

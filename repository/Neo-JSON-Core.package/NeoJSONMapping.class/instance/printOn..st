@@ -1,0 +1,4 @@
+other
+printOn: stream
+	super printOn: stream.
+	stream nextPut: $(; print: self identifier; nextPut: $)

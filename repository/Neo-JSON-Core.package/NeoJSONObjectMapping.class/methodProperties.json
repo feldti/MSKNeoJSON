@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"identifier" : "sebastianheidbrink 08/15/2014 16:15",
+		"initialize" : "SvenVanCaekenberghe 6/5/2012 22:50",
+		"mapAccessor:" : "SvenVanCaekenberghe 6/12/2012 13:13",
+		"mapAccessor:mutator:to:" : "SvenVanCaekenberghe 6/12/2012 13:12",
+		"mapAccessor:to:" : "SvenVanCaekenberghe 6/12/2012 13:13",
+		"mapAccessors:" : "SvenVanCaekenberghe 6/12/2012 13:14",
+		"mapAllInstVars" : "SvenVanCaekenberghe 6/6/2012 16:00",
+		"mapInstVar:" : "SvenVanCaekenberghe 6/9/2012 18:37",
+		"mapInstVar:to:" : "MSK 12/09/2013 15:56",
+		"mapInstVars" : "SvenVanCaekenberghe 6/6/2012 15:59",
+		"mapInstVars:" : "SvenVanCaekenberghe 6/6/2012 16:00",
+		"mapProperty:getter:setter:" : "SvenVanCaekenberghe 6/9/2012 18:13",
+		"printOn:" : "SvenVanCaekenberghe 7/4/2013 19:07",
+		"propertyNamed:ifAbsent:" : "SvenVanCaekenberghe 6/7/2012 14:52",
+		"readFrom:" : "SvenVanCaekenberghe 6/8/2012 17:13",
+		"subjectClass:" : "SvenVanCaekenberghe 6/6/2012 15:32",
+		"writeObject:on:" : "SvenVanCaekenberghe 6/6/2012 14:55" } }

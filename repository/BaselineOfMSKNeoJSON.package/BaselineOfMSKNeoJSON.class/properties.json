@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMSKNeoJSON",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMSKNeoJSON",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
